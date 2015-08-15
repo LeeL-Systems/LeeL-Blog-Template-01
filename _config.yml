@@ -1,9 +1,13 @@
 name: LeeL-Blog-Template-01
+
 url: http://LeeL-Systems.github.io
 baseurl: /LeeL-Blog-Template-01
+#url: http://127.0.0.1:4000
+#baseurl: 
+
 description: 
 avatar: 
-disqus: 
+disqus: LeeL_Systems
 google_analytics: 
 categoryConfigByCategory:
   Blog:
